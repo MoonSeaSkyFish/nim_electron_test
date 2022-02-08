@@ -20,7 +20,7 @@
 
 ## How to example
 ```
-% git clone XXXXX
+% git clone https://github.com/MoonSeaSkyFish/nim_electron_test.git
 % cd nim_electron_test/quickstart
 % npm install
 % nimble build
