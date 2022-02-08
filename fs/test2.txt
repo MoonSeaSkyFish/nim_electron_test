@@ -1,0 +1,3 @@
+--- 2 ---
+This is test2.txt.
+Do file open?
